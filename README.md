@@ -10,3 +10,4 @@ HOME
 comfort
 do something
 man
+man 2
